@@ -56,6 +56,11 @@ ASE is a library for atomistic modeling and simulation. We will use it
 `python3.10 -m pip install ase`
 -->
 
+
+
+
+
+
 ***
 
 
