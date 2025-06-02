@@ -1,2 +1,2 @@
-# fodMC (FOD Monte-Carlo generator) tutorial
+# FOD Monte-Carlo generator (fodMC) tutorial
 
