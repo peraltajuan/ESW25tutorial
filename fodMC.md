@@ -12,6 +12,8 @@ https://gitlab.com/opensic/fodMC
 
 Macs: Install homebrew (https://brew.sh) 
 
+After brew is installed:
+
 `brew install gfortran` (takes a few minutes)
 
 Linux:
@@ -21,6 +23,8 @@ Check that a FORTRAN version is installed
 ***
 
 **Install fodMC:**
+
+This is the fodMC code that we will be using.
 
 `python3.10 -m pip install fodMC`
 
@@ -35,6 +39,10 @@ Check that a FORTRAN version is installed
 ***
 
 **Install RDKit:**
+
+RDKit is a toolkit for cheminformatics. We will use it to extract bonding information, to manipulate molecular files, and to convert SMILES (Simplified Molecular Input Line Entry System)
+to 3D molecules. 
+
 
 `python3.10  -m pip install rdkit`
 
