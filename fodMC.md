@@ -8,7 +8,7 @@ https://gitlab.com/opensic/fodMC
 
 ***
 
-It needs a FORTRAN compiler installed
+**It needs a FORTRAN compiler installed**
 
 Macs: Install homebrew (https://brew.sh) 
 
@@ -20,7 +20,7 @@ Check that a FORTRAN version is installed
 
 ***
 
-Install fodMC:
+**Install fodMC:**
 
 `python3.10 -m pip install fodMC`
 
@@ -34,14 +34,14 @@ Install fodMC:
 
 ***
 
-Install RDKit:
+**Install RDKit:**
 
 `python3.10  -m pip install rdkit`
 
 
 ***
 
-Install atomic simulation environment (ASE) package:
+**Install atomic simulation environment (ASE) package:**
 
 `python3.10 -m pip install ase`
 
