@@ -19,11 +19,14 @@ Install fodMC:
 
 `python3.10 -m pip install fodMC`
 
-for some MAcs you may need:
+> [!TIP]
+> for some MAcs you may need:
+> 
+> `python3.10 -m pip install wheel`
+> 
+> `python3.10 -m pip install --no-build-isolation fodMC`
 
-`python3.10 -m pip install wheel`
 
-`python3.10 -m pip install --no-build-isolation fodMC`
 
 
 
