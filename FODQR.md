@@ -30,9 +30,10 @@ where `{token}` can be copied from [here](https://people.se.cmich.edu/peral1j/to
 
 # Example 07
 
-Use FODLego to generate FODs starting from an xyz file
+Use FODQR to generate FODs starting from an xyz file
 
-+ Run `fodlego SO2.xyz`
++ Dowload 
+python3.11 07test.py
 + The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
 + The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
 + The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
