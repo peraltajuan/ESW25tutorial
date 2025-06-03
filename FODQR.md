@@ -32,44 +32,23 @@ where `{token}` can be copied from [here](https://people.se.cmich.edu/peral1j/to
 
 Use FODQR to generate FODs starting from an xyz file
 
-+ Dowload 
-python3.11 07test.py
+Download the file [07test.py](/07test.py)
+
++ Run FODQR: `python3.11 07test.py`
 + The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
-+ The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
-+ The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
-> [!NOTE]
->The code only considers closed-shell cases and  FODs are labeled as X in the xyz file.  
++ The script generates a folder named SO2.
++ In that folder, the files `CLUSTER`, `FRMGRP`, `FRMIDT`, and `NRLMOL_INPUT.DAT` are created to run FLOSIC calculations.
++ The file `SO2.fods.xyz` containss the molecular structure and the FODs for visualization purposes.
++ The file `ini_fod.txt` contains internal information.
++ The file `submit.sb` is also generated as a starting point for cluster submission if needed.
+
+    
 
 + Visualize using VESTA (or other)
 
 
 > [!Warning]
->Files `lego.xyz`, `FRMORB`, and `CLUSTER` will be overwritten.
+>Folders will be overwritten.
 
 
 ***
-
-# Example 06
-
-Use FODLego to generate FODs starting from a SMILES string
-
-+ Run `fodlego "O=CC#CCN"`
-+ The script will generate the molecular structure and FODs.
-+ The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
-+ The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
-
-+ Visualize using VESTA (or other)
-
-> [!NOTE]
->Repeat the generation of FODs but using the "O=S=O" SMILES string. What is the difference with the previous FODs?
-
-
-
-***
-
-
-
-
-
-
-
