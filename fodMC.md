@@ -67,7 +67,7 @@ ASE is a library for atomistic modeling and simulation. We will use it
 
 ***
 
-# Example%2001
+# Example 01
 Download the file [01test.py](/01test.py)
 
 + Use an xyz file and add the “connectivity” by hand. In this case it is already in the python script.
