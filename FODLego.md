@@ -10,8 +10,8 @@ Descriptors (FODs) in Fermi-Löwdin Orbital Self Interaction Correction (FLOSIC)
 
 ## Table of Contents 
 
-[Installation](/fodMC.md#Instalation)\
-[Example 05](/fodMC.md#Example-01)
+[Installation](/FODLego.md#Instalation)\
+[Example 05](/FODLego.md#Example-05)
 
 ***
 
@@ -53,14 +53,15 @@ Use FODLego to generate FODs starting from an xyz file
 
 Use FODLego to generate FODs starting from a SMILES string
 
-+ Run `fodlego "O=C=O"`
-+ The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
++ Run `fodlego "O=CC#CCN"`
++ The script will generate the molecular structure and FODs.
 + The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
 + The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
-> [!NOTE]
->The code only considers closed-shell cases and  FODs are labeled as X in the xyz file.  
 
 + Visualize using VESTA (or other)
+
+> [!NOTE]
+>Repeat the generation of FODs but using the "O=S=O" SMILES string. What is the difference with the previous FODs?
 
 
 
