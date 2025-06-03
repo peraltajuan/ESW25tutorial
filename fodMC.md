@@ -65,10 +65,10 @@ Download the file [01test.py](/01test.py)
 
 + Use an xyz file and add the “connectivity” by hand. In this case it is already in the python script.
 + Run fodMC: `python3 01test.py`
-+ The script will read the file `SO2.xyz`
++ The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
++ The script generates a file `S)2_FOD.xyz` with the atomic coordinates plus the FODs.
++  
 + Visualize using VESTA (or other)
-<img width="547" alt="image" src="https://github.com/user-attachments/assets/5d943d06-f1f3-436a-a132-8e0e0ac1aac0" />
-
 
 ***
 
