@@ -1,5 +1,9 @@
 # FOD Monte-Carlo generator (fodMC) tutorial
 
+Based on the work published [here](https://doi.org/10.1002/jcc.26062)
+
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/fd799aff-e2cc-4695-a163-80ae83689f91" />
+
 
 ## Table of Contents 
 
