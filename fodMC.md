@@ -68,6 +68,9 @@ ASE is a library for atomistic modeling and simulation. We will use it
 ***
 
 # Example 01
+
+Generate FODs from an xyz file and connectivity (bonding) information
+
 Download the file [01test.py](/01test.py)
 
 + Use an xyz file and add the “connectivity” by hand. In this case it is already in the python script.
@@ -88,7 +91,11 @@ Download the file [01test.py](/01test.py)
 ***
 
 # Example 02
+
+Generate FODs from an xyz file
+
 Download the file [02test.py](/02test.py)
+
 
 + Now use the xyz file and RDKit to generate the connectivity. There is no need to know the molecular connectivity.
 + Run fodMC: `python3 02test.py`
@@ -110,6 +117,9 @@ Download the file [02test.py](/02test.py)
 
 
 # Example 03 
+
+Generate FODs from a SMILES string
+
 Download the file [03test.py](/03test.py)
 
 + Generate xyz coordinates and connectivity directly from a SMILES string. In this case we only need a string that represent the molecule. The script takes care of:
