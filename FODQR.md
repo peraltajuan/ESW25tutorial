@@ -48,7 +48,7 @@ Download the file [07test.py](/07test.py)
 
 
 > [!Warning]
->Folders will be overwritten.
+> The old folder will be renamed as SO2-old.
 
 
 ***
