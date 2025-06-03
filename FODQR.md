@@ -52,3 +52,17 @@ Download the file [07test.py](/07test.py)
 
 
 ***
+
+
+# Example 08
+
+Use FODQR to generate FODs starting from a SMILES string
+
+Download the file [08test.py](/08test.py)
+
+
+
+
+***
+
+
