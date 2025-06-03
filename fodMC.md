@@ -60,7 +60,7 @@ ASE is a library for atomistic modeling and simulation. We will use it
 
 ***
 
-** Example 01 **
+**Example 01**
 Download the file [01test.py](/01test.py)
 
 + Use an xyz file and add the “connectivity” by hand. In this case it is already in the python script.
@@ -75,7 +75,7 @@ Download the file [01test.py](/01test.py)
 
 ***
 
-** Example 02 **
+**Example 02**
 Download the file [02test.py](/02test.py)
 
 + Now use the xyz file and RDKit to generate the connectivity. There is no need to know the molecular connectivity.
@@ -92,7 +92,7 @@ Download the file [02test.py](/02test.py)
 
 
 
-** Example 03 **
+**Example 03**
 Download the file [03test.py](/03test.py)
 
 + Generate xyz coordinates and connectivity directly from a SMILES string. In this case we only need a string that represent the molecule. The script takes care of:
