@@ -11,9 +11,7 @@ Descriptors (FODs) in Fermi-Löwdin Orbital Self Interaction Correction (FLOSIC)
 ## Table of Contents 
 
 [Installation](/fodMC.md#Instalation)\
-[Example 01](/fodMC.md#Example-01)\
-[Example 02](/fodMC.md#Example-02)\
-[Example 03](/fodMC.md#Example-03)
+[Example 05](/fodMC.md#Example-01)
 
 ***
 
@@ -34,22 +32,43 @@ This is the fodMC code that we will be using.
 
 ***
 
-# Example 01
-Download the file [01test.py](/01test.py)
+# Example 05
 
-+ Use an xyz file and add the “connectivity” by hand. In this case it is already in the python script.
-+ Run fodMC: `python3 01test.py`
+Use FODLego to generate FODs starting from an xyz file
+
++ Run `fodlego SO2.xyz`
 + The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
-+ The script generates a file `SO2_FOD.xyz` with the atomic coordinates plus the FODs.
++ The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
++ The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
 > [!NOTE]
->The spin-up FODs are labeled as X and the spin-down as He.  
+>The code only considers closed-shell cases and  FODs are labeled as X in the xyz file.  
+
 + Visualize using VESTA (or other)
 
-<img width="180" alt="image" src="https://github.com/user-attachments/assets/12c5ee81-8f1f-4de4-a64e-96c522f49d8b" />
 
-
-> [!Note]
->Where are the Sulfur 2s2p FODs?
 
 ***
+
+# Example 06
+
+Use FODLego to generate FODs starting from a SMILES string
+
++ Run `fodlego "O=C=O"`
++ The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
++ The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
++ The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
+> [!NOTE]
+>The code only considers closed-shell cases and  FODs are labeled as X in the xyz file.  
+
++ Visualize using VESTA (or other)
+
+
+
+***
+
+
+
+
+
+
 
