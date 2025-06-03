@@ -24,7 +24,12 @@ Descriptors (FODs) in Fermi-Löwdin Orbital Self Interaction Correction (FLOSIC)
 
 This is the fodMC code that we will be using.
 
-`python3.10 -m pip install fodMC`
+`python3.10 -m pip install FODLego`
+
+
+> [!Note]
+>It needs RDKit.
+
 
 
 ***
