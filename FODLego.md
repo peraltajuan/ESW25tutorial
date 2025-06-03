@@ -47,6 +47,9 @@ Use FODLego to generate FODs starting from an xyz file
 + Visualize using VESTA (or other)
 
 
+> [!Warning]
+>Files will be overwritten.
+
 
 ***
 
