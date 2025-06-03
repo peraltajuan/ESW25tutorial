@@ -96,9 +96,9 @@ Download the file [02test.py](/02test.py)
 Download the file [03test.py](/03test.py)
 
 + Generate xyz coordinates and connectivity directly from a SMILES string. In this case we only need a string that represent the molecule. The script takes care of:
-  + SMILES &#8594; mol
+  + SMILES &#8594; mol
   + Add Hs (not in the SMILES information)
-  + Adjust structure
+  + Adjust structure
   + Relax using UFF
 
 + The resulting mol and connectivity is used for fodMC.
