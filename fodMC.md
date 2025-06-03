@@ -4,9 +4,9 @@
 ## Table of Contents 
 
 [Installation](/fodMC.md#Instalation)\
-[Example 01](/fodMC.md#Example%2001)\
-[Example 02](/fodMC.md#Example02)\
-[Example 03](/fodMC.md#Example03)
+[Example 01](/fodMC.md#Example-01)\
+[Example 02](/fodMC.md#Example-02)\
+[Example 03](/fodMC.md#Example-03)
 
 ***
 
