@@ -17,7 +17,7 @@ Based on work in progress and [this paper](https://doi.org/10.1063/5.0263003)
 # Instalation
 
 
-**Install fodMC:**
+**Install FODQR:**
 
 This is the FODQR code that we will be using.
 
