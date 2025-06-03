@@ -47,14 +47,14 @@ to 3D molecules.
 `python3.10  -m pip install rdkit`
 
 
-<!--- ***
+***
 
-<> **Install atomic simulation environment (ASE) package:**
+**Install atomic simulation environment (ASE) package:**
 
 ASE is a library for atomistic modeling and simulation. We will use it 
 
 `python3.10 -m pip install ase`
--->
+
 
 
 
