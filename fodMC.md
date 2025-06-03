@@ -3,14 +3,14 @@
 
 ## Table of Contents 
 
-[Installation](/fodMC.md##Instalation)\
+[Installation](/fodMC.md#Instalation)\
 [Example 01](/fodMC.md##Example01)\
 [Example 02](/fodMC.md##Example02)\
 [Example 03](/fodMC.md##Example03)
 
 ***
 
-## Instalation
+# Instalation
 
 Available at
 https://gitlab.com/opensic/fodMC
