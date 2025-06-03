@@ -48,7 +48,7 @@ Use FODLego to generate FODs starting from an xyz file
 
 
 > [!Warning]
->Files will be overwritten.
+>Files `lego.xyz`, `FRMORB`, and `CLUSTER` will be overwritten.
 
 
 ***
