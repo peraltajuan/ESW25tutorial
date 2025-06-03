@@ -67,7 +67,7 @@ Download the file [01test.py](/01test.py)
 + Run fodMC: `python3 01test.py`
 + The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
 + The script generates a file `S)2_FOD.xyz` with the atomic coordinates plus the FODs.
-  + >[Note!]
+  + >[!Note]
     >The spin-up FODs are labeled as X and the spin-down as He.  
 + Visualize using VESTA (or other)
 
