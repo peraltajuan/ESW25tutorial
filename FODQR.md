@@ -23,7 +23,7 @@ This is the FODQR code that we will be using.
 
 `python3.11  -m pip install  git+https://{token}@github.com/peraltajuan/niflosic/`
 
-where `{token}` can be copied from [here]{https://people.se.cmich.edu/peral1j/token.txt}
+where `{token}` can be copied from [here](https://people.se.cmich.edu/peral1j/token.txt)
 
 
 ***
