@@ -13,8 +13,8 @@ and [this paper](https://doi.org/10.1063/5.0263003)
 
 [Installation](/FODQR.md#Instalation)\
 [Example 07](/FODQR.md#Example-07)\
-[Example 08](/FODQR.md#Example-08)
-
+[Example 08](/FODQR.md#Example-08)\
+[Example 09](/FODQR.md#Example-09)
 ***
 
 # Instalation
@@ -72,6 +72,22 @@ Use FODQR to generate FODs starting from a SMILES string
 + Download the file [08test.py](/08test.py).
 + Run FODQR: `python3.11 08test.py`.
 
+
+
+
+***
+
+
+
+# Example 09: Atoms
+
+Use FODQR to generate FODs for a list of atoms.
+
++ Download the file [09test.py](/09test.py).
++ Run FODQR: `python3 09test.py`.
++ The script runs a list of atoms (in this case B through Ne) and generates all the folders as in the previous examples.
++ The script also prints some atomic experimental information from the Mendeleev package (to install use `python3 -m pip install mendeleev==0.15.0`).
++ You can control the ionization state by changing the `ionize` variable in the script.
 
 
 
