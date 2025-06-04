@@ -91,7 +91,7 @@ Download the file [01test.py](/01test.py)
 + Visualize using VESTA (or other)
   
 <p align="center" width="100%">
-<img align="center" width="398" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
 </p>
 
 
@@ -182,7 +182,7 @@ Download the file [04test.py](/04test.py)
 
 
 <p align="center" width="100%">
-<img align="center" width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
+<img width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8022e59b-08cd-4306-b031-c02e2f61604f" />
 
 </p>p
@@ -190,7 +190,7 @@ Download the file [04test.py](/04test.py)
 + Now attempt to use a different bonding structure:
   
 <p align="center" width="100%">
-<img align="center" width="200" alt="image" src="https://github.com/user-attachments/assets/c43d1e4e-c358-4849-b9de-adeb642996bf" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c43d1e4e-c358-4849-b9de-adeb642996bf" />
 </p>
 
 
