@@ -183,7 +183,8 @@ Download the file [04test.py](/04test.py)
 
 <p align="center" width="100%">
 <img align="center" width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
-<img align="center" width="200" alt="image" src="https://github.com/user-attachments/assets/ee31c142-b9c5-4bed-ab02-21be10e4dea7" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/8022e59b-08cd-4306-b031-c02e2f61604f" />
+
 </p>p
 
 + Now attempt to use a different bonding structure:
