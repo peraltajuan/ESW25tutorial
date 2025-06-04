@@ -152,10 +152,6 @@ Download the file [03test.py](/03test.py)
 
 
 
-# Open-Shell cases
-
-
-
 
 # Atoms
 
