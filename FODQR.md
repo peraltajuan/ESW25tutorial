@@ -21,6 +21,9 @@ and [this paper](https://doi.org/10.1063/5.0263003)
 
 **Install FODQR:**
 
+First, install PySCF: `python3.11  -m pip install  pyscf: 'python3 -m pip install pyscf==2.6.0'.
+
+
 This is the FODQR code that we will be using.
 
 `python3.11  -m pip install  git+https://{token}@github.com/peraltajuan/niflosic/`
