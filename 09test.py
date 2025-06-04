@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 
-from niflosic import run_atoms
+from niflosic.niflosic import run_atoms
 import mendeleev
 import pandas as pd
 
 ionize = 0      # 0-3
 
-summary = run_atoms(slice(5,10),ionize)
+atom_list= slice(5,10) # B to Ne
+
+summary = run_atoms(atom_list,ionize)
 
 PD = pd.DataFrame(summary)
 
