@@ -182,13 +182,12 @@ Download the file [04test.py](/04test.py)
 
 
 <img width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
-
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/ee31c142-b9c5-4bed-ab02-21be10e4dea7" />
 
 
 + Now attempt to use a different bonding structure:
 
-<img width="436" alt="image" src="https://github.com/user-attachments/assets/c43d1e4e-c358-4849-b9de-adeb642996bf" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c43d1e4e-c358-4849-b9de-adeb642996bf" />
 
 
 
