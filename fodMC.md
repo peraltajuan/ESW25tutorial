@@ -177,9 +177,16 @@ Download the file [04test.py](/04test.py)
 # Exercises:
 
 + Generate FODs for the SO2 molecule. Use  [01test.py](/01test.py) as the starting point and the xyz file [SO2.xyz](/SO2.xyz).
-  + Assume two double bonds C=O and verify that the FOD structure is like this: 
- 
+  + Assume two double bonds C=O and verify that the FOD structure is like this:
+
+
+
+<img width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
+
+
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/ee31c142-b9c5-4bed-ab02-21be10e4dea7" />
+
++ 
 
 + Now use [03test.py](/03test.py) as the starting point with the SMILEs string `O=S=O`. What is the difference? 
 
