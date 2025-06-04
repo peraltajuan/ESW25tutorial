@@ -156,5 +156,18 @@ Download the file [03test.py](/03test.py)
 # Atoms
 
 
+Generate FODs from atoms.
+
+Download the file [04test.py](/04test.py)
+
++ Generate FODs for neutral atoms. Edit the `04test.py` file as needed (the current files is for C).
++ Run fodMC: `python3 04test.py`.
++ The script generates a file `C_fodMC.xyz` with the atomic coordinate (atom at the origin) plus the FODs.
+
+
+> [!Note]
+> The function `pyfodmc.get_guess` can generate NRLMOL input files by changing the call to `pyfodmc.get_guess('NRLMOL','')`.
+
+
 
 
