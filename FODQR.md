@@ -38,9 +38,8 @@ where `{token}` can be copied from [here](https://people.se.cmich.edu/peral1j/to
 
 Use FODQR to generate FODs starting from an xyz file
 
-Download the file [07test.py](/07test.py)
-
-+ Run FODQR: `python3.11 07test.py`
++ Download the file [07test.py](/07test.py).
++ Run FODQR: `python3.11 07test.py`.
 + The script will read the file `acetaldehyde.xyz` with the atomic coordinates in xyz format.
 + The script generates a folder named acetaldehyde.
 + In that folder, the files `CLUSTER`, `FRMGRP`, `FRMIDT`, and `NRLMOL_INPUT.DAT` are created to run FLOSIC calculations.
@@ -70,11 +69,15 @@ Download the file [07test.py](/07test.py)
 
 Use FODQR to generate FODs starting from a SMILES string
 
-Download the file [08test.py](/08test.py)
++ Download the file [08test.py](/08test.py).
++ Run FODQR: `python3.11 08test.py`.
 
 
 
 
 ***
+
+
+
 
 
