@@ -72,6 +72,7 @@ Use FODLego to generate FODs starting from a SMILES string
 # Exercises:
 
 + Repeat the generation of FODs but using the "O=S=O" SMILES string. What is the difference with the previous FODs for SO2?
++ Try fodMC and FODLego with a molecule containing a triple bond.
 
 
 
