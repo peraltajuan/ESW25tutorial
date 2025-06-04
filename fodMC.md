@@ -172,4 +172,17 @@ Download the file [04test.py](/04test.py)
 
 
 
+***
+
+# Exercises:
+
++ Generate FODs for the SO2 molecule.
+  + Assume two double bonds C=O and verify that the FOD structure is like this: 
+ 
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/ee31c142-b9c5-4bed-ab02-21be10e4dea7" />
+
+  + Assume one 
+
+
+
 
