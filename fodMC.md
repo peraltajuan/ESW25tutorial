@@ -89,9 +89,10 @@ Download the file [01test.py](/01test.py)
 >The spin-up FODs are labeled as X and the spin-down as He in the original fodMC code.
 > There is a segment of code in the script at the end that replaces He-->Z in the file.  
 + Visualize using VESTA (or other)
-
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
-
+  
+<p align="center" width="100%">
+<img align="center" width="398" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
+</p>
 
 
 > [!Note]
@@ -180,15 +181,16 @@ Download the file [04test.py](/04test.py)
   + Assume two double bonds C=O and verify that the FOD structure is like this:
 
 
-
-<img width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/ee31c142-b9c5-4bed-ab02-21be10e4dea7" />
-
+<p align="center" width="100%">
+<img align="center" width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
+<img align="center" width="200" alt="image" src="https://github.com/user-attachments/assets/ee31c142-b9c5-4bed-ab02-21be10e4dea7" />
+</p>p
 
 + Now attempt to use a different bonding structure:
-
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/c43d1e4e-c358-4849-b9de-adeb642996bf" />
-
+  
+<p align="center" width="100%">
+<img align="center" width="200" alt="image" src="https://github.com/user-attachments/assets/c43d1e4e-c358-4849-b9de-adeb642996bf" />
+</p>
 
 
 
