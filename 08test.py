@@ -1,8 +1,6 @@
 #!/usr/bin/env python
-from niflosic import run_dft
-from niflosic import submit_flosic
-import numpy as np
-
+from niflosic.niflosic import run_dft
+from niflosic.niflosic import submit_flosic
 
 
 smiles = "O=CC#CCN"
