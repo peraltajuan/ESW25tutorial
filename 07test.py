@@ -4,7 +4,7 @@ from niflosic.niflosic import submit_flosic
 import numpy as np
 
 
-filename = 'SO2'
+filename = 'acetaldehyde'
 
 run_dft(filename,smiles='xyz',spin=0,charge=0)  
 
