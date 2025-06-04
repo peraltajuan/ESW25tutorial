@@ -4,7 +4,7 @@ Based on
 **work in progress** 
 and [this paper](https://doi.org/10.1063/5.0263003) 
 
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/a0350ceb-6114-4181-9fec-f90a8e2bbaf4" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/a0350ceb-6114-4181-9fec-f90a8e2bbaf4" />
 
 > [!Note]
 > The current code is experimental!
