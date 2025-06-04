@@ -52,8 +52,9 @@ Download the file [07test.py](/07test.py)
 
 + Visualize using VESTA (or other)
 
+<p align="center" width="100%">
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/1c2f1319-1e85-4af9-9a27-4557ef9ca15b" />
-
+</p>p
 
 > [!Warning]
 > The old folder will be renamed as acetaldehyde-old.
