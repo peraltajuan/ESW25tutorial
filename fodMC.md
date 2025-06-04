@@ -11,7 +11,7 @@ Based on the work published [here](https://doi.org/10.1002/jcc.26062)
 [Example 01](/fodMC.md#Example-01)\
 [Example 02](/fodMC.md#Example-02)\
 [Example 03](/fodMC.md#Example-03)
-[Example 03](/fodMC.md#Example-03-Atoms)
+[Example 04](/fodMC.md#Example-04-Atoms)
 
 ***
 
@@ -154,7 +154,7 @@ Download the file [03test.py](/03test.py)
 
 
 
-# Example 03: Atoms
+# Example 04: Atoms
 
 
 Generate FODs from atoms.
