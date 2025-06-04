@@ -89,7 +89,8 @@ Use FODQR to generate FODs for a list of atoms.
 + The script also prints some atomic experimental information from the Mendeleev package (to install use `python3 -m pip install mendeleev==0.15.0`).
 + You can control the ionization state by changing the `ionize` variable in the script.
 
-
+> [!Note]
+> The xyz file omits the atom for easier visualization.
 
 ***
 
