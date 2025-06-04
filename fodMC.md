@@ -2,7 +2,7 @@
 
 Based on the work published [here](https://doi.org/10.1002/jcc.26062)
 
-<img width="677" alt="image" src="https://github.com/user-attachments/assets/fd799aff-e2cc-4695-a163-80ae83689f91" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/fd799aff-e2cc-4695-a163-80ae83689f91" />
 
 
 ## Table of Contents 
@@ -91,7 +91,7 @@ Download the file [01test.py](/01test.py)
 + Visualize using VESTA (or other)
   
 <p align="center" width="100%">
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
 </p>
 
 
@@ -185,7 +185,7 @@ Download the file [04test.py](/04test.py)
 <img width="200" alt="Picture1" src="https://github.com/user-attachments/assets/e3644044-0ede-4150-99b7-3e98aa77ae3b" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/8022e59b-08cd-4306-b031-c02e2f61604f" />
 
-</p>p
+</p>
 
 + Now attempt to use a different bonding structure:
   
