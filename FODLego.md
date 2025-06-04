@@ -37,8 +37,8 @@ This is the fodMC code that we will be using.
 
 Use FODLego to generate FODs starting from an xyz file
 
-+ Run `fodlego SO2.xyz`
-+ The script will read the file `SO2.xyz` with the atomic coordinates in xyz format.
++ Run `fodlego acetaldehyde.xyz`
++ The script will read the file `acetaldehyde.xyz` with the atomic coordinates in xyz format.
 + The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
 + The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
 > [!NOTE]
@@ -57,20 +57,21 @@ Use FODLego to generate FODs starting from an xyz file
 
 Use FODLego to generate FODs starting from a SMILES string
 
-+ Run `fodlego "O=CC#CCN"`
++ Run `fodlego "[H]C(C)=O"` (or `CC=O`).
 + The script will generate the molecular structure and FODs.
 + The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
 + The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
 
 + Visualize using VESTA (or other)
 
-> [!NOTE]
->Repeat the generation of FODs but using the "O=S=O" SMILES string. What is the difference with the previous FODs?
 
 
 
 ***
 
+# Exercises:
+
++ Repeat the generation of FODs but using the "O=S=O" SMILES string. What is the difference with the previous FODs for SO2?
 
 
 
