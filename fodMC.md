@@ -11,7 +11,8 @@ Based on the work published [here](https://doi.org/10.1002/jcc.26062)
 [Example 01](/fodMC.md#Example-01)\
 [Example 02](/fodMC.md#Example-02)\
 [Example 03](/fodMC.md#Example-03)\
-[Example 04](/fodMC.md#Example-04-Atoms)
+[Example 04](/fodMC.md#Example-04)\
+[Exercises](/fodMC.md#Exercises)
 
 ***
 
@@ -155,7 +156,7 @@ Download the file [03test.py](/03test.py)
 
 
 
-# Example 04: Atoms
+# Example 04
 
 
 Generate FODs from atoms.
@@ -175,7 +176,7 @@ Download the file [04test.py](/04test.py)
 
 ***
 
-# Exercises:
+# Exercises
 
 + Generate FODs for the SO2 molecule. Use  [01test.py](/01test.py) as the starting point and the xyz file [SO2.xyz](/SO2.xyz).
   + Assume two double bonds C=O and verify that the FOD structure is like this:
