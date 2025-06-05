@@ -39,17 +39,19 @@ where `{token}` can be copied from [here](https://people.se.cmich.edu/peral1j/to
 Use FODQR to generate FODs starting from an xyz file
 
 + Download the file [07test.py](/07test.py).
++ Download the file [acetaldehyde.xyz](/acetaldehyde.xyz).
 + Run FODQR: `python3.11 07test.py`.
 + The script will read the file `acetaldehyde.xyz` with the atomic coordinates in xyz format.
-+ The script generates a folder named acetaldehyde.
-+ In that folder, the files `CLUSTER`, `FRMGRP`, `FRMIDT`, and `NRLMOL_INPUT.DAT` are created to run FLOSIC calculations.
-+ The file `acetaldehyde.fods.xyz` containss the molecular structure and the FODs for visualization purposes.
-+ The file `ini_fod.txt` contains internal information.
-+ The file `submit.sb` is also generated as a starting point for cluster submission if needed.
++ The script generates a folder named acetaldehyde containing several files.
+    + The files `CLUSTER`, `FRMGRP`, `FRMIDT`, and `NRLMOL_INPUT.DAT` are created to run FLOSIC calculations.
+    + The file `acetaldehyde.fods.xyz` containss the molecular structure and the FODs for visualization purposes.
+    + The file `ini_fod.txt` contains internal information.
+    + The file `submit.sb` is also generated as a starting point for cluster submission if needed.
 
     
 
 + Visualize using VESTA (or other)
+
 
 <p align="center" width="100%">
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/1c2f1319-1e85-4af9-9a27-4557ef9ca15b" />
@@ -59,7 +61,7 @@ Use FODQR to generate FODs starting from an xyz file
 > The old folder will be renamed as acetaldehyde-old.
 
 > [!Note]
-> What is the difference with the otehr methods?
+> What is the difference with the other methods?
 
 
 ***
@@ -97,4 +99,8 @@ Use FODQR to generate FODs for a list of atoms.
 
 
 
+# Exercices:
+
++ Use the script `08test.py` as a starting point to generate FODs for a molecule with one unpaired electron.
++ Use the script `09test.py` to generate FODs for the sequence of atoms: C4-, N3-, O2-, and F-. What do they have in common? Are the tetrahedra all of the same size? 
 
