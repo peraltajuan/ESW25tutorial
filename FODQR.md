@@ -14,7 +14,8 @@ and [this paper](https://doi.org/10.1063/5.0263003)
 [Installation](/FODQR.md#Instalation)\
 [Example 07](/FODQR.md#Example-07)\
 [Example 08](/FODQR.md#Example-08)\
-[Example 09](/FODQR.md#Example-09)
+[Example 09](/FODQR.md#Example-09-Atoms)\
+[Exercises](/FODQR.md#Exercises)\
 ***
 
 # Instalation
@@ -81,7 +82,7 @@ Use FODQR to generate FODs starting from a SMILES string
 
 
 
-# Example 09: Atoms
+# Example 09 Atoms
 
 Use FODQR to generate FODs for a list of atoms.
 
@@ -99,7 +100,7 @@ Use FODQR to generate FODs for a list of atoms.
 
 
 
-# Exercices:
+# Exercices
 
 + Use the script `08test.py` as a starting point to generate FODs for a molecule with one unpaired electron.
 + Generate FODs for the sequence of ions: C<sup>4-</sup>, N<sup>3-</sup>, O<sup>2-</sup>, and F<sup>-</sup>. What do they have in common? Are the tetrahedra all of the same size? 
