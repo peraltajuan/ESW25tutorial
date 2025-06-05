@@ -102,5 +102,5 @@ Use FODQR to generate FODs for a list of atoms.
 # Exercices:
 
 + Use the script `08test.py` as a starting point to generate FODs for a molecule with one unpaired electron.
-+ Use the script `09test.py` to generate FODs for the sequence of atoms: C4-, N3-, O2-, and F-. What do they have in common? Are the tetrahedra all of the same size? 
++ Use the script `09test.py` to generate FODs for the sequence of atoms: C<sup>4-</sup>, N<sup>3-</sup>, O<sup>2-</sup>, and F<sup>-</sup>. What do they have in common? Are the tetrahedra all of the same size? 
 
