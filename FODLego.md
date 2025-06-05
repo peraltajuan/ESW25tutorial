@@ -12,7 +12,8 @@ Descriptors (FODs) in Fermi-Löwdin Orbital Self Interaction Correction (FLOSIC)
 
 [Installation](/FODLego.md#Instalation)\
 [Example 05](/FODLego.md#Example-05)\
-[Example 06](/FODLego.md#Example-06)
+[Example 06](/FODLego.md#Example-06)\
+[Exercises](/FODLego.md#Exercises)
 
 ***
 
@@ -69,7 +70,7 @@ Use FODLego to generate FODs starting from a SMILES string
 
 ***
 
-# Exercises:
+# Exercises
 
 + Repeat the generation of FODs but using the "O=S=O" SMILES string. What is the difference with the previous FODs for SO2?
 + Try fodMC and FODLego with a molecule containing a triple bond.
