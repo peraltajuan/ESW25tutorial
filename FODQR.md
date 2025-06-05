@@ -14,8 +14,8 @@ and [this paper](https://doi.org/10.1063/5.0263003)
 [Installation](/FODQR.md#Instalation)\
 [Example 07](/FODQR.md#Example-07)\
 [Example 08](/FODQR.md#Example-08)\
-[Example 09](/FODQR.md#Example-09-Atoms)\
-[Exercises](/FODQR.md#Exercises)\
+[Example 09](/FODQR.md#Example-09)\
+[Exercises](/FODQR.md#Exercices)
 ***
 
 # Instalation
@@ -82,7 +82,7 @@ Use FODQR to generate FODs starting from a SMILES string
 
 
 
-# Example 09 Atoms
+# Example 09
 
 Use FODQR to generate FODs for a list of atoms.
 
