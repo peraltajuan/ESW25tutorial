@@ -89,7 +89,7 @@ Download the file [01test.py](/01test.py)
 > [!NOTE]
 >The spin-up FODs are labeled as X and the spin-down as He in the original fodMC code.
 > There is a segment of code in the script at the end that replaces He-->Z in the file.  
-+ Visualize using VESTA (or other)
++ Visualize using [VESTA](https://jp-minerals.org/vesta/en/) (or other)
   
 <p align="center" width="100%">
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/994e89cb-6d19-43a1-982a-81990f4cce28" />
