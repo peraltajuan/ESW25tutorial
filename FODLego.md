@@ -45,7 +45,7 @@ Use FODLego to generate FODs starting from an xyz file
 > [!NOTE]
 >The code only considers closed-shell cases and  FODs are labeled as X in the xyz file.  
 
-+ Visualize using VESTA (or other)
++ Visualize using VESTA (or jmol)
 
 
 > [!Warning]
@@ -63,7 +63,7 @@ Use FODLego to generate FODs starting from a SMILES string
 + The script generates a file `lego.xyz` with the atomic coordinates plus the FODs.
 + The script generates a `FRMORB` and a `CLUSTER` files to run FLOSIC calculations.
 
-+ Visualize using VESTA (or other)
++ Visualize using VESTA (or jmol)
 
 
 
