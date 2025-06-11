@@ -2,9 +2,11 @@
 
 Based on 
 **work in progress** 
-and [this paper](https://doi.org/10.1063/5.0263003) 
+and [this](https://doi.org/10.1063/5.0263003) and [this](https://doi.org/10.1021/acs.jctc.1c00801) papers. 
 
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/a0350ceb-6114-4181-9fec-f90a8e2bbaf4" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a0350ceb-6114-4181-9fec-f90a8e2bbaf4" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bcfc53d1-4b5d-4931-8b21-5606f9077518" />
+
 
 > [!Note]
 > The current code is experimental!
