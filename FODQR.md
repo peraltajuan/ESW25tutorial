@@ -51,7 +51,7 @@ Use FODQR to generate FODs starting from an xyz file
 
     
 
-+ Visualize using VESTA (or other)
++ Visualize using VESTA (or jmol)
 
 
 <p align="center" width="100%">
